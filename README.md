@@ -1,0 +1,1 @@
+Here is side by side comparison of 2D and 3D version of model till rpn_feature maps(P1,P2 …) showing how part wise graph can be plotted and compared for debugging, below graph(2D and 3D version) is plotted and compared(with its 3D version) in tensorboard.
